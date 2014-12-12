@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swiftris/GameScene.swift"
+            timestampString = "439876167.183254"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swiftris.GameScene.init (Swiftris.GameScene.Type)(coder : ObjectiveC.NSCoder) -&gt; Swiftris.GameScene"
+                  moduleName = "Swiftris"
+                  urlString = "file:///Users/briandouglas/Desktop/Swiftris/Swiftris/GameScene.swift"
+                  timestampString = "439877440.713578"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swiftris.GameScene.init (Swiftris.GameScene.Type)(size : C.CGSize) -&gt; Swiftris.GameScene"
+                  moduleName = "Swiftris"
+                  urlString = "file:///Users/briandouglas/Desktop/Swiftris/Swiftris/GameScene.swift"
+                  timestampString = "439877440.713852"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swiftris/GameScene.swift"
+            timestampString = "439876167.183254"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swiftris.GameScene.tick.getter : Swift.Optional&lt;() -&gt; ()&gt;"
+                  moduleName = "Swiftris"
+                  urlString = "file:///Users/briandouglas/Desktop/Swiftris/Swiftris/GameScene.swift"
+                  timestampString = "439876253.349464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swiftris.GameScene.init (Swiftris.GameScene.Type)(coder : ObjectiveC.NSCoder) -&gt; Swiftris.GameScene"
+                  moduleName = "Swiftris"
+                  urlString = "file:///Users/briandouglas/Desktop/Swiftris/Swiftris/GameScene.swift"
+                  timestampString = "439876253.349954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swiftris.GameScene.init (Swiftris.GameScene.Type)(size : C.CGSize) -&gt; Swiftris.GameScene"
+                  moduleName = "Swiftris"
+                  urlString = "file:///Users/briandouglas/Desktop/Swiftris/Swiftris/GameScene.swift"
+                  timestampString = "439876253.350181"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swiftris.GameScene.tick.materializeForSet : Swift.Optional&lt;() -&gt; ()&gt;"
+                  moduleName = "Swiftris"
+                  urlString = "file:///Users/briandouglas/Desktop/Swiftris/Swiftris/GameScene.swift"
+                  timestampString = "439876253.350383"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swiftris/Shape.swift"
+            timestampString = "439790882.327791"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "rotate(_:clockwise:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
